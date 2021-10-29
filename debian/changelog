@@ -1,0 +1,29 @@
+quickgui (1.1.0-1~jammy1.0) jammy; urgency=medium
+
+  * The Big Merge©®️™!
+
+ -- Yannick Mauray <yannick.mauray@gmail.com>  Thu, 28 Oct 2021 08:16:45 +0200
+
+quickgui (1.0.5-1~jammy1.0) jammy; urgency=medium
+
+  * Compatibility with the downloader field
+
+ -- Yannick Mauray <yannick.mauray@gmail.com>  Wed, 27 Oct 2021 18:14:08 +0200
+
+quickgui (1.0.0-4-1~jammy1.2) jammy; urgency=medium
+
+  * Fixed debian packaging, again
+
+ -- Yannick Mauray <yannick.mauray@gmail.com>  Fri, 22 Oct 2021 14:03:40 +0200
+
+quickgui (1.0.0-4-1~jammy1.1) jammy; urgency=medium
+
+  * Fixed debian packaging
+
+ -- Yannick Mauray <yannick.mauray@gmail.com>  Fri, 22 Oct 2021 13:34:05 +0200
+
+quickgui (1.0.0-4-1~jammy1.0) jammy; urgency=medium
+
+  * Initial release
+
+ -- Yannick Mauray <yannick.mauray@gmail.com>  Fri, 22 Oct 2021 00:56:24 +0200
