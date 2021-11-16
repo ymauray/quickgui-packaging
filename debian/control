@@ -11,7 +11,7 @@ Rules-Requires-Root: no
 
 Package: quickgui
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, zenity
 Description: A Flutter frontend for quickget
  This is a frontend for [quickget](https://github.com/wimpysworld/quickemu),
  which is the part of `quickemu` that downloads ISO image.
